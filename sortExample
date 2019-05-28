@@ -1,0 +1,21 @@
+
+public class sortExample {
+	
+	public static void main(String[]args)
+	{
+		
+		int i[] = {4,5,6,7,8,9,7,9,10};
+		
+		String sub[] = {"A", "B", "C", "D", "E"};
+		
+		
+		System.out.println("");	
+		for(String j : sub)
+		{
+			
+			System.out.print(j+" ");	
+		}
+		System.out.println("");	
+		
+	}
+}
